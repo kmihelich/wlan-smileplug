@@ -1,0 +1,2 @@
+0x00000000	get_wifi_wmm_queue_status	/home/leming/smile/wlan-v5-sc2_smileplug_gpl/ap8x	EXPORT_SYMBOL
+0x00000000	get_wifi_qos_cap	/home/leming/smile/wlan-v5-sc2_smileplug_gpl/ap8x	EXPORT_SYMBOL
